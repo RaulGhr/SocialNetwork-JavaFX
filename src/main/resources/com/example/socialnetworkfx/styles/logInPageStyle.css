@@ -1,0 +1,70 @@
+.baseStack{
+    /*-fx-background-color: #000c2b;*/
+    -fx-background-color: #d0cefa;
+}
+
+.title{
+    -fx-font-size: 30px;
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-fill: #000c2b !important;
+
+}
+
+.tableField{
+
+    -fx-background-color: transparent;
+    -fx-border-color: #000c2b;
+    -fx-border-width: 0 0 1 0;
+    -fx-border-radius: 0;
+    -fx-font-size: 15px;
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-text-fill: #000c2b;
+    -fx-prompt-text-fill: #000c2b;
+}
+
+.submitButton{
+    -fx-background-color: transparent;
+    -fx-background-radius: 30px;
+    -fx-border-color: #000c2b;
+    -fx-border-width: 2;
+    -fx-border-radius: 30px;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+
+
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-text-fill: #000c2b;
+
+    -fx-duration: 2s !important;
+}
+
+.submitButton:hover{
+    -fx-background-color: #000c2b;
+    -fx-text-fill: #ffffff;
+    -fx-border-width: 1;
+    -fx-border-radius: 30px;
+    -fx-scale-x: 1.2;
+    -fx-scale-y: 1.2;
+
+}
+
+.switchButton{
+    -fx-background-color: transparent;
+    -fx-border-radius: 0;
+    -fx-font-size: 12px;
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-text-fill: #000c2b;
+    -fx-duration: 2s !important;
+}
+
+.switchButton:hover{
+    -fx-duration: 2s !important;
+    -fx-text-fill: #305ed9;
+}
+
+.cover{
+    -fx-background-color: #000c2b;
+    -fx-font-size: 15px;
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-text-fill: #ffffff;
+}

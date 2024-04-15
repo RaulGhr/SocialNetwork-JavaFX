@@ -1,0 +1,6 @@
+1;Raul;Gherman
+2;Marius;Georgescu
+3;Ghita;Camataru
+4;Tudor;Popa
+5;Marius;Moga
+6;Marius;Andrei
